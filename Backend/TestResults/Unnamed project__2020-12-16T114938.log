@@ -1,0 +1,299 @@
+﻿2020-12-16T11:49:38.4269302-06:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-12-16T11:49:38.4270848-06:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.4.19 in Framework netcore31 in x86 mode execution started
+2020-12-16T11:49:38.4270883-06:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\user\Desktop\Matricula Net Core y React\Backend\SpecFlowProjectUniversidad\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-12-16T11:49:38.4291066-06:00;VSTestExecutionThread;Info;Current UserName: 'user', MachineName: 'KEVIN-PC'
+2020-12-16T11:49:38.4626305-06:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\user\Desktop\Matricula Net Core y React\Backend\SpecFlowProjectUniversidad\bin\Debug\netcoreapp3.1\SpecFlowProjectUniversidad.dll
+2020-12-16T11:49:38.4628637-06:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\user\Desktop\Matricula Net Core y React\Backend\TestResults" (default)
+2020-12-16T11:49:38.4629530-06:00;VSTestExecutionThread;Info;Profile: 
+2020-12-16T11:49:38.5276218-06:00;VSTestExecutionThread;Info;Log file path: C:\Users\user\Desktop\Matricula Net Core y React\Backend\TestResults\Unnamed project__2020-12-16T114938.log
+2020-12-16T11:49:38.5362973-06:00;Thread#12;Info;Checking activation
+2020-12-16T11:49:38.6510552-06:00;Thread#12;Info;Activated.
+2020-12-16T11:49:38.6514036-06:00;Thread#12;Info;Activation check completed
+2020-12-16T11:49:38.6515371-06:00;Thread#12;Info;Starting test run
+2020-12-16T11:49:38.7758537-06:00;Thread#12;Info;Discovering target: Default
+2020-12-16T11:49:38.7761498-06:00;Thread#12;Info;Discovering tests from assembly: C:\Users\user\Desktop\Matricula Net Core y React\Backend\SpecFlowProjectUniversidad\bin\Debug\netcoreapp3.1\SpecFlowProjectUniversidad.dll
+2020-12-16T11:49:38.9002969-06:00;Thread#12;Info;Discovered tests from assembly: C:\Users\user\Desktop\Matricula Net Core y React\Backend\SpecFlowProjectUniversidad\bin\Debug\netcoreapp3.1\SpecFlowProjectUniversidad.dll
+2020-12-16T11:49:38.9028897-06:00:Test Suite Dump
+2020-12-16T11:49:38.9045429-06:00:#0: Unnamed project/ - 
+2020-12-16T11:49:38.9045599-06:00:#1: Default - 
+2020-12-16T11:49:38.9045621-06:00:#2: SpecFlowProjectUniversidad - 
+2020-12-16T11:49:38.9045641-06:00:#3: Pais - 
+2020-12-16T11:49:38.9055963-06:00:#4: Verificar si existe un pais - TestAssembly:SpecFlowProjectUniversidad/Feature:Pais/Scenario:Verificar+si+existe+un+pais
+2020-12-16T11:49:38.9056521-06:00:#5: Verificar si existe un Usuario en put - TestAssembly:SpecFlowProjectUniversidad/Feature:Pais/Scenario:Verificar+si+existe+un+Usuario+en+put
+2020-12-16T11:49:38.9056941-06:00:#6: Verificar si existe un Usuario en delete - TestAssembly:SpecFlowProjectUniversidad/Feature:Pais/Scenario:Verificar+si+existe+un+Usuario+en+delete
+2020-12-16T11:49:38.9057784-06:00:End: Test Suite Dump
+2020-12-16T11:49:38.9252329-06:00:Thread#0:Scheduler: get next test for thread 0
+2020-12-16T11:49:38.9269904-06:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2020-12-16T11:49:38.9270510-06:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2020-12-16T11:49:38.9306837-06:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2020-12-16T11:49:38.9307061-06:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2020-12-16T11:49:38.9307084-06:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2020-12-16T11:49:38.9307121-06:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2020-12-16T11:49:38.9315514-06:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2020-12-16T11:49:38.9337574-06:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-12-16T11:49:38.9366127-06:00:Thread #0: creating new test thread executor for SpecFlowProjectUniversidad, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2020-12-16T11:49:38.9397645-06:00:Thread #0: Creating test assembly executor for execution model OutProc
+2020-12-16T11:49:38.9400248-06:00:Thread #0: Creating test assembly executor for execution model OutProc
+2020-12-16T11:49:38.9426328-06:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2020-12-16T11:49:38.9441913-06:00:starting Out Of Process Executor
+2020-12-16T11:49:38.9468862-06:00:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2020-12-16T11:49:38.9517738-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' from .deps.json file
+2020-12-16T11:49:38.9517931-06:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' from .deps.json
+2020-12-16T11:49:38.9528737-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\user\Desktop\Matricula Net Core y React\Backend\SpecFlowProjectUniversidad\bin\Debug\netcoreapp3.1'
+2020-12-16T11:49:38.9532690-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\user\Desktop\Matricula Net Core y React\Backend\SpecFlowProjectUniversidad\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2020-12-16T11:49:38.9533757-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\user\Desktop\Matricula Net Core y React\Backend\SpecFlowProjectUniversidad\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.exe'
+2020-12-16T11:49:38.9534103-06:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\user\Desktop\Matricula Net Core y React\Backend\SpecFlowProjectUniversidad\bin\Debug\netcoreapp3.1'
+2020-12-16T11:49:38.9536240-06:00:TargetFramework: .NETCoreApp,Version=v3.1
+2020-12-16T11:49:38.9541394-06:00:Tfm: netcoreapp3.1
+2020-12-16T11:49:38.9541500-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\user\Desktop\Matricula Net Core y React\Backend\SpecFlowProjectUniversidad\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2020-12-16T11:49:38.9541523-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\user\Desktop\Matricula Net Core y React\Backend\SpecFlowProjectUniversidad\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2020-12-16T11:49:38.9542300-06:00:[AssemblyCache] Found file 'C:\Users\user\Desktop\Matricula Net Core y React\Backend\SpecFlowProjectUniversidad\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll' for assembly 'Microsoft.VisualStudio.Validation'
+2020-12-16T11:49:38.9551058-06:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Validation' to C:\Users\user\Desktop\Matricula Net Core y React\Backend\SpecFlowProjectUniversidad\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll
+2020-12-16T11:49:38.9557412-06:00:Starting callback TCP Rpc server
+2020-12-16T11:49:38.9762851-06:00:Asynchronously starting background TCP Rpc Server on port 32768
+2020-12-16T11:49:38.9763438-06:00:Started callback TCP Rpc server on port 32768
+2020-12-16T11:49:38.9763498-06:00:Starting logger TCP Rpc server
+2020-12-16T11:49:38.9860953-06:00:Asynchronously starting background TCP Rpc Server on port 32770
+2020-12-16T11:49:38.9861217-06:00:Started logger TCP Rpc server on port 32770
+2020-12-16T11:49:39.0968533-06:00:Executing test executor at 'dotnet' 'exec "C:\Users\user\Desktop\Matricula Net Core y React\Backend\SpecFlowProjectUniversidad\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp3_1.dll" --remoteRunnerPid 21652 --uniqueId "2020-12-16T114938" --outputFolder "C:\Users\user\Desktop\Matricula Net Core y React\Backend\TestResults" --callbackPort 32768 --loggerPort 32770' in 'C:\Users\user\Desktop\Matricula Net Core y React\Backend\SpecFlowProjectUniversidad\bin\Debug\netcoreapp3.1'
+2020-12-16T11:49:39.1229393-06:00:Executor with PID 21372 has been started successfully.
+2020-12-16T11:49:39.1266504-06:00:Out of Process Executor 21372 started
+2020-12-16T11:49:39.1266631-06:00:Waiting for endpoint
+2020-12-16T11:49:39.5897355-06:00:Assembly resolving StreamJsonRpc.resources, Version=1.4.0.0, Culture=es-MX, PublicKeyToken=b03f5f7f11d50a3a
+2020-12-16T11:49:39.5897545-06:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' from .deps.json file
+2020-12-16T11:49:39.5897576-06:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' from .deps.json
+2020-12-16T11:49:39.5897650-06:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Users\user\Desktop\Matricula Net Core y React\Backend\SpecFlowProjectUniversidad\bin\Debug\netcoreapp3.1'
+2020-12-16T11:49:39.5897688-06:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\user\Desktop\Matricula Net Core y React\Backend\SpecFlowProjectUniversidad\bin\Debug\netcoreapp3.1\StreamJsonRpc.resources.dll'
+2020-12-16T11:49:39.5898265-06:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\user\Desktop\Matricula Net Core y React\Backend\SpecFlowProjectUniversidad\bin\Debug\netcoreapp3.1\StreamJsonRpc.resources.exe'
+2020-12-16T11:49:39.5898740-06:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Users\user\Desktop\Matricula Net Core y React\Backend\SpecFlowProjectUniversidad\bin\Debug\netcoreapp3.1'
+2020-12-16T11:49:39.5898888-06:00:TargetFramework: .NETCoreApp,Version=v3.1
+2020-12-16T11:49:39.5899239-06:00:Tfm: netcoreapp3.1
+2020-12-16T11:49:39.5899281-06:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Users\user\Desktop\Matricula Net Core y React\Backend\SpecFlowProjectUniversidad\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2020-12-16T11:49:39.5899324-06:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\user\Desktop\Matricula Net Core y React\Backend\SpecFlowProjectUniversidad\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\StreamJsonRpc.resources.dll'
+2020-12-16T11:49:39.5899855-06:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\user\Desktop\Matricula Net Core y React\Backend\SpecFlowProjectUniversidad\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\StreamJsonRpc.resources.exe'
+2020-12-16T11:49:39.5900336-06:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Users\user\Desktop\Matricula Net Core y React\Backend\SpecFlowProjectUniversidad\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2020-12-16T11:49:39.5998053-06:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files (x86)\dotnet\shared\Microsoft.AspNetCore.App\3.1.9'
+2020-12-16T11:49:39.5998308-06:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files (x86)\dotnet\shared\Microsoft.AspNetCore.App\3.1.9\StreamJsonRpc.resources.dll'
+2020-12-16T11:49:39.5999442-06:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files (x86)\dotnet\shared\Microsoft.AspNetCore.App\3.1.9\StreamJsonRpc.resources.exe'
+2020-12-16T11:49:39.6000199-06:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files (x86)\dotnet\shared\Microsoft.AspNetCore.App\3.1.9'
+2020-12-16T11:49:39.6005014-06:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files (x86)\dotnet\shared\Microsoft.NETCore.App\3.1.9'
+2020-12-16T11:49:39.6005129-06:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files (x86)\dotnet\shared\Microsoft.NETCore.App\3.1.9\StreamJsonRpc.resources.dll'
+2020-12-16T11:49:39.6005728-06:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files (x86)\dotnet\shared\Microsoft.NETCore.App\3.1.9\StreamJsonRpc.resources.exe'
+2020-12-16T11:49:39.6006232-06:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files (x86)\dotnet\shared\Microsoft.NETCore.App\3.1.9'
+2020-12-16T11:49:39.6008843-06:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files (x86)\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.9'
+2020-12-16T11:49:39.6008964-06:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files (x86)\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.9\StreamJsonRpc.resources.dll'
+2020-12-16T11:49:39.6009633-06:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files (x86)\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.9\StreamJsonRpc.resources.exe'
+2020-12-16T11:49:39.6010266-06:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files (x86)\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.9'
+2020-12-16T11:49:39.6019788-06:00:Assembly resolving StreamJsonRpc.resources, Version=1.4.0.0, Culture=es, PublicKeyToken=b03f5f7f11d50a3a
+2020-12-16T11:49:39.6029439-06:00:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2020-12-16T11:49:39.6029615-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' from .deps.json file
+2020-12-16T11:49:39.6029690-06:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' from .deps.json
+2020-12-16T11:49:39.6029744-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\user\Desktop\Matricula Net Core y React\Backend\SpecFlowProjectUniversidad\bin\Debug\netcoreapp3.1'
+2020-12-16T11:49:39.6029848-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\user\Desktop\Matricula Net Core y React\Backend\SpecFlowProjectUniversidad\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2020-12-16T11:49:39.6030378-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\user\Desktop\Matricula Net Core y React\Backend\SpecFlowProjectUniversidad\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.exe'
+2020-12-16T11:49:39.6030889-06:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\user\Desktop\Matricula Net Core y React\Backend\SpecFlowProjectUniversidad\bin\Debug\netcoreapp3.1'
+2020-12-16T11:49:39.6030940-06:00:TargetFramework: .NETCoreApp,Version=v3.1
+2020-12-16T11:49:39.6031271-06:00:Tfm: netcoreapp3.1
+2020-12-16T11:49:39.6031333-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\user\Desktop\Matricula Net Core y React\Backend\SpecFlowProjectUniversidad\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2020-12-16T11:49:39.6031370-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\user\Desktop\Matricula Net Core y React\Backend\SpecFlowProjectUniversidad\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2020-12-16T11:49:39.6032319-06:00:[AssemblyCache] Found file 'C:\Users\user\Desktop\Matricula Net Core y React\Backend\SpecFlowProjectUniversidad\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll' for assembly 'Microsoft.VisualStudio.Threading'
+2020-12-16T11:49:39.6042535-06:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Threading' to C:\Users\user\Desktop\Matricula Net Core y React\Backend\SpecFlowProjectUniversidad\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll
+2020-12-16T11:49:39.9060251-06:00:Remote executor port received: 32771
+2020-12-16T11:49:39.9063122-06:00:Creating executor TCP client on port 32771
+2020-12-16T11:49:39.9067044-06:00:Created executor TCP client on port 32771
+2020-12-16T11:49:39.9067120-06:00:Connecting to remote executor TCP server
+2020-12-16T11:49:39.9079938-06:00:Connected remote executor TCP server
+2020-12-16T11:49:39.9081613-06:00:trying to connect to Out of Process Executor the 1 attempt
+2020-12-16T11:49:39.9081727-06:00:Connection to Out of Process Executor established in the 1 attempt
+2020-12-16T11:49:40.0864459-06:00:2020-12-16T11:49:40.0854005-06:00:OutOfProcessTestAssemblyExecutor: initialized for C:\Users\user\Desktop\Matricula Net Core y React\Backend\SpecFlowProjectUniversidad\bin\Debug\netcoreapp3.1\SpecFlowProjectUniversidad.dll on test thread #0
+2020-12-16T11:49:40.0993938-06:00:Endpoint 21372 started
+2020-12-16T11:49:40.1229214-06:00:2020-12-16T11:49:40.1225382-06:00:OutOfProcessTestAssemblyExecutor: running tests...
+2020-12-16T11:49:40.2532893-06:00:2020-12-16T11:49:40.2520112-06:00:Assembly resolving TechTalk.SpecFlow, Version=3.4.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2020-12-16T11:49:40.2578417-06:00:2020-12-16T11:49:40.2574690-06:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' from .deps.json file
+2020-12-16T11:49:40.2629704-06:00:2020-12-16T11:49:40.2624723-06:00:[AssemblyCache] Resolved 'TechTalk.SpecFlow' to 'C:\Users\user\.nuget\packages\specflow\3.4.8\lib\netstandard2.0\TechTalk.SpecFlow.dll'
+2020-12-16T11:49:40.4391031-06:00:2020-12-16T11:49:40.4385768-06:00:Thread#0:T:-> Loading plugin C:\Users\user\Desktop\Matricula Net Core y React\Backend\SpecFlowProjectUniversidad\bin\Debug\netcoreapp3.1\LivingDoc.SpecFlowPlugin.dll
+2020-12-16T11:49:40.4408877-06:00:2020-12-16T11:49:40.4404687-06:00:Assembly resolving TechTalk.SpecFlow, Version=3.4.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2020-12-16T11:49:40.4422023-06:00:2020-12-16T11:49:40.4418270-06:00:Assembly resolving LivingDoc.Dtos, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+2020-12-16T11:49:40.4430520-06:00:2020-12-16T11:49:40.4424988-06:00:[AssemblyCache] Trying to resolve 'LivingDoc.Dtos' from .deps.json file
+2020-12-16T11:49:40.4446185-06:00:2020-12-16T11:49:40.4442656-06:00:[AssemblyCache] Resolved 'LivingDoc.Dtos' to 'C:\Users\user\.nuget\packages\specflow.plus.livingdocplugin\3.4.211\lib\netstandard2.0\LivingDoc.Dtos.dll'
+2020-12-16T11:49:40.4493503-06:00:2020-12-16T11:49:40.4475920-06:00:Thread#0:T:-> Loading plugin C:\Users\user\Desktop\Matricula Net Core y React\Backend\SpecFlowProjectUniversidad\bin\Debug\netcoreapp3.1\SpecRun.Runtime.SpecFlowPlugin.dll
+2020-12-16T11:49:40.4508130-06:00:2020-12-16T11:49:40.4504032-06:00:Assembly resolving TechTalk.SpecFlow, Version=3.4.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2020-12-16T11:49:40.4556724-06:00:2020-12-16T11:49:40.4553228-06:00:Thread#0:T:-> Using default config
+2020-12-16T11:49:40.4719372-06:00:2020-12-16T11:49:40.4715219-06:00:Assembly resolving Cucumber.Messages, Version=6.0.1.0, Culture=neutral, PublicKeyToken=b10c5988214f940c
+2020-12-16T11:49:40.4725771-06:00:2020-12-16T11:49:40.4722779-06:00:[AssemblyCache] Trying to resolve 'Cucumber.Messages' from .deps.json file
+2020-12-16T11:49:40.4733891-06:00:2020-12-16T11:49:40.4730503-06:00:[AssemblyCache] Resolved 'Cucumber.Messages' to 'C:\Users\user\.nuget\packages\cucumber.messages\6.0.1\lib\netstandard2.0\Cucumber.Messages.dll'
+2020-12-16T11:49:40.4746912-06:00:2020-12-16T11:49:40.4743406-06:00:Assembly resolving Google.Protobuf, Version=3.7.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604
+2020-12-16T11:49:40.4752506-06:00:2020-12-16T11:49:40.4749569-06:00:[AssemblyCache] Trying to resolve 'Google.Protobuf' from .deps.json file
+2020-12-16T11:49:40.4761466-06:00:2020-12-16T11:49:40.4757690-06:00:[AssemblyCache] Resolved 'Google.Protobuf' to 'C:\Users\user\.nuget\packages\google.protobuf\3.7.0\lib\netstandard1.0\Google.Protobuf.dll'
+2020-12-16T11:49:40.4922132-06:00:2020-12-16T11:49:40.4918354-06:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2020-12-16T11:49:40.4926973-06:00:2020-12-16T11:49:40.4924370-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' from .deps.json file
+2020-12-16T11:49:40.4935117-06:00:2020-12-16T11:49:40.4932106-06:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to 'C:\Users\user\.nuget\packages\microsoft.testplatform.objectmodel\16.5.0\lib\netstandard2.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll'
+2020-12-16T11:49:40.5361777-06:00:2020-12-16T11:49:40.5357788-06:00:Assembly resolving Utf8Json, Version=1.3.7.0, Culture=neutral, PublicKeyToken=8a73d3ba7e392e27
+2020-12-16T11:49:40.5367078-06:00:2020-12-16T11:49:40.5364263-06:00:[AssemblyCache] Trying to resolve 'Utf8Json' from .deps.json file
+2020-12-16T11:49:40.5374374-06:00:2020-12-16T11:49:40.5371466-06:00:[AssemblyCache] Resolved 'Utf8Json' to 'C:\Users\user\.nuget\packages\utf8json\1.3.7\lib\netstandard2.0\Utf8Json.dll'
+2020-12-16T11:49:40.8112731-06:00:Thread#0: Test #4/0 is started on thread #0
+2020-12-16T11:49:40.8509484-06:00:2020-12-16T11:49:40.8499450-06:00:Thread#0:B:Given si el pais es igual que null get
+2020-12-16T11:49:40.8717751-06:00:2020-12-16T11:49:40.8713428-06:00:Assembly resolving MatriculaWebApplicationEF, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-12-16T11:49:40.8724828-06:00:2020-12-16T11:49:40.8721558-06:00:[AssemblyCache] Trying to resolve 'MatriculaWebApplicationEF' from .deps.json file
+2020-12-16T11:49:40.8743792-06:00:2020-12-16T11:49:40.8739859-06:00:[DependencyContextAssemblyCache.ResolveManagedAssembly] Resolving 'MatriculaWebApplicationEF', found in dependency map, but unable to resolve a path in ['MatriculaWebApplicationEF.dll']
+2020-12-16T11:49:40.8750477-06:00:2020-12-16T11:49:40.8746945-06:00:[AssemblyCache] Could not resolve 'MatriculaWebApplicationEF' from .deps.json
+2020-12-16T11:49:40.8776116-06:00:2020-12-16T11:49:40.8771576-06:00:[AssemblyCache] Trying to resolve 'MatriculaWebApplicationEF' in folder 'C:\Users\user\Desktop\Matricula Net Core y React\Backend\SpecFlowProjectUniversidad\bin\Debug\netcoreapp3.1'
+2020-12-16T11:49:40.8851986-06:00:2020-12-16T11:49:40.8845967-06:00:[AssemblyCache] Trying to resolve 'MatriculaWebApplicationEF' to 'C:\Users\user\Desktop\Matricula Net Core y React\Backend\SpecFlowProjectUniversidad\bin\Debug\netcoreapp3.1\MatriculaWebApplicationEF.dll'
+2020-12-16T11:49:40.8860642-06:00:2020-12-16T11:49:40.8857387-06:00:[AssemblyCache] Found file 'C:\Users\user\Desktop\Matricula Net Core y React\Backend\SpecFlowProjectUniversidad\bin\Debug\netcoreapp3.1\MatriculaWebApplicationEF.dll' for assembly 'MatriculaWebApplicationEF'
+2020-12-16T11:49:40.8875112-06:00:2020-12-16T11:49:40.8870511-06:00:[AssemblyCache] Resolved 'MatriculaWebApplicationEF' to C:\Users\user\Desktop\Matricula Net Core y React\Backend\SpecFlowProjectUniversidad\bin\Debug\netcoreapp3.1\MatriculaWebApplicationEF.dll
+2020-12-16T11:49:40.8938096-06:00:2020-12-16T11:49:40.8933868-06:00:Thread#0:T:done: PaisSteps.GivenSiElPaisEsIgualQueNullGet() (0,0s)
+2020-12-16T11:49:40.8968540-06:00:2020-12-16T11:49:40.8962617-06:00:Thread#0:B:When el pais no existe
+2020-12-16T11:49:40.9026091-06:00:2020-12-16T11:49:40.9015842-06:00:Thread#0:T:done: PaisSteps.WhenElPaisNoExiste() (0,0s)
+2020-12-16T11:49:40.9040229-06:00:2020-12-16T11:49:40.9035137-06:00:Thread#0:B:Then pais enseñar "No se Encontro el Pais"
+2020-12-16T11:49:40.9072370-06:00:2020-12-16T11:49:40.9068603-06:00:Assembly resolving FluentAssertions, Version=5.10.3.0, Culture=neutral, PublicKeyToken=33f2691a05b67b6a
+2020-12-16T11:49:40.9078314-06:00:2020-12-16T11:49:40.9075183-06:00:[AssemblyCache] Trying to resolve 'FluentAssertions' from .deps.json file
+2020-12-16T11:49:40.9088873-06:00:2020-12-16T11:49:40.9083825-06:00:[AssemblyCache] Resolved 'FluentAssertions' to 'C:\Users\user\.nuget\packages\fluentassertions\5.10.3\lib\netcoreapp2.1\FluentAssertions.dll'
+2020-12-16T11:49:40.9269645-06:00:2020-12-16T11:49:40.9266052-06:00:Thread#0:T:done: PaisSteps.ThenPaisEnsenar("No se Encontro el...") (0,0s)
+2020-12-16T11:49:40.9455751-06:00:Thread#0:Scheduler: get next test for thread 0
+2020-12-16T11:49:40.9456413-06:00:Thread#:Scheduler: testitem #5 from normal test queue 
+2020-12-16T11:49:40.9456517-06:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2020-12-16T11:49:40.9457541-06:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2020-12-16T11:49:40.9457650-06:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2020-12-16T11:49:40.9457697-06:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2020-12-16T11:49:40.9457736-06:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2020-12-16T11:49:40.9458189-06:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2020-12-16T11:49:40.9458838-06:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-12-16T11:49:41.0023246-06:00:Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 0,1897341 seconds
+2020-12-16T11:49:41.0053960-06:00:Thread#0: Test #5/0 is started on thread #0
+2020-12-16T11:49:41.0074179-06:00:2020-12-16T11:49:41.0070345-06:00:Thread#0:B:Given si el usuario es igual que null en put
+2020-12-16T11:49:41.5758921-06:00:2020-12-16T11:49:41.0275928-06:00:Assembly resolving Gherkin, Version=6.0.0.0, Culture=neutral, PublicKeyToken=86496cfa5b4a5851
+2020-12-16T11:49:41.5797772-06:00:2020-12-16T11:49:41.5779841-06:00:[AssemblyCache] Trying to resolve 'Gherkin' from .deps.json file
+2020-12-16T11:49:41.5832281-06:00:2020-12-16T11:49:41.5811167-06:00:[AssemblyCache] Resolved 'Gherkin' to 'C:\Users\user\.nuget\packages\gherkin\6.0.0\lib\netstandard2.0\Gherkin.dll'
+2020-12-16T11:49:41.6370329-06:00:2020-12-16T11:49:41.6360702-06:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2020-12-16T11:49:41.6378190-06:00:2020-12-16T11:49:41.6375607-06:00:Thread#0:T:        [Given(@"si el usuario es igual que null en put")]
+2020-12-16T11:49:41.6383470-06:00:2020-12-16T11:49:41.6380425-06:00:Thread#0:T:        public void GivenSiElUsuarioEsIgualQueNullEnPut()
+2020-12-16T11:49:41.6390688-06:00:2020-12-16T11:49:41.6387434-06:00:Thread#0:T:        {
+2020-12-16T11:49:41.6396445-06:00:2020-12-16T11:49:41.6392875-06:00:Thread#0:T:            _scenarioContext.Pending();
+2020-12-16T11:49:41.6400793-06:00:2020-12-16T11:49:41.6398105-06:00:Thread#0:T:        }
+2020-12-16T11:49:41.6421494-06:00:2020-12-16T11:49:41.6417844-06:00:Thread#0:B:When el usuario no existe en put
+2020-12-16T11:49:41.6469522-06:00:2020-12-16T11:49:41.6465643-06:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2020-12-16T11:49:41.6475122-06:00:2020-12-16T11:49:41.6472320-06:00:Thread#0:T:        [When(@"el usuario no existe en put")]
+2020-12-16T11:49:41.6490829-06:00:2020-12-16T11:49:41.6484446-06:00:Thread#0:T:        public void WhenElUsuarioNoExisteEnPut()
+2020-12-16T11:49:41.6497605-06:00:2020-12-16T11:49:41.6493523-06:00:Thread#0:T:        {
+2020-12-16T11:49:41.6502209-06:00:2020-12-16T11:49:41.6499798-06:00:Thread#0:T:            _scenarioContext.Pending();
+2020-12-16T11:49:41.6507113-06:00:2020-12-16T11:49:41.6504758-06:00:Thread#0:T:        }
+2020-12-16T11:49:41.6513833-06:00:2020-12-16T11:49:41.6511010-06:00:Thread#0:B:Then put usuario enseñar "No se Encontro el Pais"
+2020-12-16T11:49:41.6592584-06:00:2020-12-16T11:49:41.6588416-06:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2020-12-16T11:49:41.6598578-06:00:2020-12-16T11:49:41.6595350-06:00:Thread#0:T:        [Then(@"put usuario enseñar ""(.*)""")]
+2020-12-16T11:49:41.6604497-06:00:2020-12-16T11:49:41.6601269-06:00:Thread#0:T:        public void ThenPutUsuarioEnsenar(string p0)
+2020-12-16T11:49:41.6609174-06:00:2020-12-16T11:49:41.6606556-06:00:Thread#0:T:        {
+2020-12-16T11:49:41.6614489-06:00:2020-12-16T11:49:41.6611645-06:00:Thread#0:T:            _scenarioContext.Pending();
+2020-12-16T11:49:41.6681523-06:00:2020-12-16T11:49:41.6678245-06:00:Thread#0:T:        }
+2020-12-16T11:49:41.7269309-06:00:2020-12-16T11:49:41.7265560-06:00:Thread#0:T:Pending: No matching step definition found for one or more steps.
+2020-12-16T11:49:41.7275328-06:00:2020-12-16T11:49:41.7272032-06:00:Thread#0:T:using System;
+2020-12-16T11:49:41.7294509-06:00:2020-12-16T11:49:41.7279163-06:00:Thread#0:T:using TechTalk.SpecFlow;
+2020-12-16T11:49:41.7301424-06:00:2020-12-16T11:49:41.7298175-06:00:Thread#0:T:namespace MyNamespace
+2020-12-16T11:49:41.7306776-06:00:2020-12-16T11:49:41.7303722-06:00:Thread#0:T:{
+2020-12-16T11:49:41.7316759-06:00:2020-12-16T11:49:41.7309419-06:00:Thread#0:T:    [Binding]
+2020-12-16T11:49:41.7324942-06:00:2020-12-16T11:49:41.7321878-06:00:Thread#0:T:    public class StepDefinitions
+2020-12-16T11:49:41.7329256-06:00:2020-12-16T11:49:41.7327027-06:00:Thread#0:T:    {
+2020-12-16T11:49:41.7333168-06:00:2020-12-16T11:49:41.7331057-06:00:Thread#0:T:        private readonly ScenarioContext _scenarioContext;
+2020-12-16T11:49:41.7337982-06:00:2020-12-16T11:49:41.7334964-06:00:Thread#0:T:        public StepDefinitions(ScenarioContext scenarioContext)
+2020-12-16T11:49:41.7342608-06:00:2020-12-16T11:49:41.7340256-06:00:Thread#0:T:        {
+2020-12-16T11:49:41.7347393-06:00:2020-12-16T11:49:41.7344913-06:00:Thread#0:T:            _scenarioContext = scenarioContext;
+2020-12-16T11:49:41.7352177-06:00:2020-12-16T11:49:41.7349634-06:00:Thread#0:T:        }
+2020-12-16T11:49:41.7357311-06:00:2020-12-16T11:49:41.7354326-06:00:Thread#0:T:        [Given(@"si el usuario es igual que null en put")]
+2020-12-16T11:49:41.7362255-06:00:2020-12-16T11:49:41.7359806-06:00:Thread#0:T:        public void GivenSiElUsuarioEsIgualQueNullEnPut()
+2020-12-16T11:49:41.7368932-06:00:2020-12-16T11:49:41.7365397-06:00:Thread#0:T:        {
+2020-12-16T11:49:41.7376001-06:00:2020-12-16T11:49:41.7371192-06:00:Thread#0:T:            _scenarioContext.Pending();
+2020-12-16T11:49:41.7395899-06:00:2020-12-16T11:49:41.7379158-06:00:Thread#0:T:        }
+2020-12-16T11:49:41.7408178-06:00:2020-12-16T11:49:41.7400694-06:00:Thread#0:T:        
+2020-12-16T11:49:41.7417905-06:00:2020-12-16T11:49:41.7411967-06:00:Thread#0:T:        [When(@"el usuario no existe en put")]
+2020-12-16T11:49:41.7430598-06:00:2020-12-16T11:49:41.7424686-06:00:Thread#0:T:        public void WhenElUsuarioNoExisteEnPut()
+2020-12-16T11:49:41.7442254-06:00:2020-12-16T11:49:41.7435926-06:00:Thread#0:T:        {
+2020-12-16T11:49:41.7469577-06:00:2020-12-16T11:49:41.7447267-06:00:Thread#0:T:            _scenarioContext.Pending();
+2020-12-16T11:49:41.7478238-06:00:2020-12-16T11:49:41.7474502-06:00:Thread#0:T:        }
+2020-12-16T11:49:41.7489077-06:00:2020-12-16T11:49:41.7481869-06:00:Thread#0:T:        
+2020-12-16T11:49:41.7496580-06:00:2020-12-16T11:49:41.7492136-06:00:Thread#0:T:        [Then(@"put usuario enseñar ""(.*)""")]
+2020-12-16T11:49:41.7502482-06:00:2020-12-16T11:49:41.7499253-06:00:Thread#0:T:        public void ThenPutUsuarioEnsenar(string p0)
+2020-12-16T11:49:41.7508269-06:00:2020-12-16T11:49:41.7505276-06:00:Thread#0:T:        {
+2020-12-16T11:49:41.7514014-06:00:2020-12-16T11:49:41.7511126-06:00:Thread#0:T:            _scenarioContext.Pending();
+2020-12-16T11:49:41.7519616-06:00:2020-12-16T11:49:41.7516506-06:00:Thread#0:T:        }
+2020-12-16T11:49:41.7524958-06:00:2020-12-16T11:49:41.7522212-06:00:Thread#0:T:    }
+2020-12-16T11:49:41.7530042-06:00:2020-12-16T11:49:41.7527417-06:00:Thread#0:T:}
+2020-12-16T11:49:41.7542747-06:00:Thread#0:Scheduler: get next test for thread 0
+2020-12-16T11:49:41.7543108-06:00:Thread#:Scheduler: testitem #6 from normal test queue 
+2020-12-16T11:49:41.7543140-06:00:Thread#0:Scheduler: considering testitem #6 for thread 0
+2020-12-16T11:49:41.7543862-06:00:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2020-12-16T11:49:41.7543895-06:00:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2020-12-16T11:49:41.7543910-06:00:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2020-12-16T11:49:41.7543929-06:00:Thread#0:Scheduler: using testitem #6 for thread 0
+2020-12-16T11:49:41.7544010-06:00:Thread#0:Scheduler: Test #6 is scheduled for thread
+2020-12-16T11:49:41.7544073-06:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-12-16T11:49:41.7563183-06:00:Thread#0: Test #5/0 is finished on thread #0 as Pending within 0,7508754 seconds
+2020-12-16T11:49:41.7571567-06:00:Thread#0: Test #6/0 is started on thread #0
+2020-12-16T11:49:41.7604290-06:00:2020-12-16T11:49:41.7600356-06:00:Thread#0:B:Given si el pais es igual que null en delete
+2020-12-16T11:49:41.7622227-06:00:2020-12-16T11:49:41.7618747-06:00:Thread#0:T:done: PaisSteps.GivenSiElPaisEsIgualQueNullEnDelete() (0,0s)
+2020-12-16T11:49:41.7629814-06:00:2020-12-16T11:49:41.7626174-06:00:Thread#0:B:When el pais no existe en delete
+2020-12-16T11:49:41.7662042-06:00:2020-12-16T11:49:41.7656945-06:00:Thread#0:T:done: PaisSteps.WhenElPaisNoExisteEnDelete() (0,0s)
+2020-12-16T11:49:41.7670551-06:00:2020-12-16T11:49:41.7666710-06:00:Thread#0:B:Then delete pais enseñar "No se Encontro el Pais"
+2020-12-16T11:49:41.7687674-06:00:2020-12-16T11:49:41.7683360-06:00:Thread#0:T:done: PaisSteps.ThenDeletePaisEnsenar("No se Encontro el...") (0,0s)
+2020-12-16T11:49:41.7701991-06:00:Thread#0:Scheduler: get next test for thread 0
+2020-12-16T11:49:41.7702194-06:00:Thread#:Scheduler: at the end of normal test queue
+2020-12-16T11:49:41.7702259-06:00:Thread#0:Scheduler: enumerator for thread is at end
+2020-12-16T11:49:41.7702323-06:00:Thread#0:Scheduler: No more tests for thread
+2020-12-16T11:49:41.7739047-06:00:Thread#0: Test #6/0 is finished on thread #0 as Succeeded within 0,0167172 seconds
+2020-12-16T11:49:41.7875584-06:00:2020-12-16T11:49:41.7871807-06:00:Got Deinitialize Signal
+2020-12-16T11:49:41.7926268-06:00:RPC Client disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2020-12-16T11:49:41.7939992-06:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2020-12-16T11:49:41.7962640-06:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2020-12-16T11:49:41.8015300-06:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=es-MX, PublicKeyToken=b03f5f7f11d50a3a
+2020-12-16T11:49:41.8015542-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' from .deps.json file
+2020-12-16T11:49:41.8015592-06:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' from .deps.json
+2020-12-16T11:49:41.8015664-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\user\Desktop\Matricula Net Core y React\Backend\SpecFlowProjectUniversidad\bin\Debug\netcoreapp3.1'
+2020-12-16T11:49:41.8015694-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\user\Desktop\Matricula Net Core y React\Backend\SpecFlowProjectUniversidad\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2020-12-16T11:49:41.8016236-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\user\Desktop\Matricula Net Core y React\Backend\SpecFlowProjectUniversidad\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2020-12-16T11:49:41.8016702-06:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\user\Desktop\Matricula Net Core y React\Backend\SpecFlowProjectUniversidad\bin\Debug\netcoreapp3.1'
+2020-12-16T11:49:41.8016816-06:00:TargetFramework: .NETCoreApp,Version=v3.1
+2020-12-16T11:49:41.8017499-06:00:Tfm: netcoreapp3.1
+2020-12-16T11:49:41.8017566-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\user\Desktop\Matricula Net Core y React\Backend\SpecFlowProjectUniversidad\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2020-12-16T11:49:41.8017587-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\user\Desktop\Matricula Net Core y React\Backend\SpecFlowProjectUniversidad\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2020-12-16T11:49:41.8018164-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\user\Desktop\Matricula Net Core y React\Backend\SpecFlowProjectUniversidad\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2020-12-16T11:49:41.8018814-06:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\user\Desktop\Matricula Net Core y React\Backend\SpecFlowProjectUniversidad\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2020-12-16T11:49:41.8029877-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files (x86)\dotnet\shared\Microsoft.AspNetCore.App\3.1.9'
+2020-12-16T11:49:41.8030022-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files (x86)\dotnet\shared\Microsoft.AspNetCore.App\3.1.9\System.Diagnostics.Process.resources.dll'
+2020-12-16T11:49:41.8030672-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files (x86)\dotnet\shared\Microsoft.AspNetCore.App\3.1.9\System.Diagnostics.Process.resources.exe'
+2020-12-16T11:49:41.8031160-06:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files (x86)\dotnet\shared\Microsoft.AspNetCore.App\3.1.9'
+2020-12-16T11:49:41.8033671-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files (x86)\dotnet\shared\Microsoft.NETCore.App\3.1.9'
+2020-12-16T11:49:41.8033824-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files (x86)\dotnet\shared\Microsoft.NETCore.App\3.1.9\System.Diagnostics.Process.resources.dll'
+2020-12-16T11:49:41.8034691-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files (x86)\dotnet\shared\Microsoft.NETCore.App\3.1.9\System.Diagnostics.Process.resources.exe'
+2020-12-16T11:49:41.8035193-06:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files (x86)\dotnet\shared\Microsoft.NETCore.App\3.1.9'
+2020-12-16T11:49:41.8037311-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files (x86)\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.9'
+2020-12-16T11:49:41.8037376-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files (x86)\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.9\System.Diagnostics.Process.resources.dll'
+2020-12-16T11:49:41.8038031-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files (x86)\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.9\System.Diagnostics.Process.resources.exe'
+2020-12-16T11:49:41.8038484-06:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files (x86)\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.9'
+2020-12-16T11:49:41.8045298-06:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=es, PublicKeyToken=b03f5f7f11d50a3a
+2020-12-16T11:49:41.8193063-06:00:Thread#-1:Scheduler: get next test for thread -1
+2020-12-16T11:49:41.8193233-06:00:Thread#:Scheduler: at the end of normal test queue
+2020-12-16T11:49:41.8193271-06:00:Thread#-1:Scheduler: enumerator for thread is at end
+2020-12-16T11:49:41.8226581-06:00;Thread#12;Info;test run finished
+2020-12-16T11:49:41.8230272-06:00;Thread#12;Info;publishing test results
+2020-12-16T11:49:41.8237111-06:00;Thread#12;Info;Not publishing results.
+2020-12-16T11:49:41.8238924-06:00;Thread#12;Info;test results published
+2020-12-16T11:49:41.8239821-06:00;Thread#12;Info;generating reports
+2020-12-16T11:49:41.9608783-06:00;Thread#12;Info;Starting external report generation process
+2020-12-16T11:49:44.3221176-06:00;Thread#12;Info;Successfully generated reports.
+2020-12-16T11:49:44.3258427-06:00;Thread#12;Info;Successfully generated reports
+2020-12-16T11:49:44.3329708-06:00:Total: 3
+2020-12-16T11:49:44.3346631-06:00:Succeeded: 2
+2020-12-16T11:49:44.3349309-06:00:Ignored: 0
+2020-12-16T11:49:44.3352040-06:00:Pending: 1
+2020-12-16T11:49:44.3352116-06:00:Skipped: 0
+2020-12-16T11:49:44.3354292-06:00:Failed: 0
+2020-12-16T11:49:44.3430975-06:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2020-12-16T11:49:44.3433827-06:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\user\Desktop\Matricula Net Core y React\Backend\TestResults\Unnamed project__2020-12-16T114938.html'
+========== End of log file ==========
